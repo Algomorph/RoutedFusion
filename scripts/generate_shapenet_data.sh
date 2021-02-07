@@ -11,6 +11,7 @@ CODE_PATH=$(pwd)
 
 export PYTHONPATH=$CODE_PATH/deps/mesh-fusion/librender/:$PYTHONPATH
 export PYTHONPATH=$CODE_PATH/deps/mesh-fusion/libfusiongpu/:$PYTHONPATH
+export PYTHONPATH=$CODE_PATH/deps/mesh-fusion/libmcubes/:$PYTHONPATH
 
 # path to the mesh-fusion tool
 TOOL_PATH='deps/mesh-fusion'
