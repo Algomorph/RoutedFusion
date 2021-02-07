@@ -3,3 +3,7 @@
 */*/*.pyc
 
 *.so
+deps/mesh-fusion/libfusioncpu/build
+deps/mesh-fusion/libfusiongpu/build
+deps/mesh-fusion/libmcubes/build
+deps/mesh-fusion/librender/build
